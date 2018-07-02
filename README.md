@@ -26,9 +26,9 @@
 
 [游戏代码链接](./TrueGod/Assets/Scripts)
 
-## 展示文档
+## 贡献表
 
-
+[游戏代码链接](TrueGodGame/贡献表.xls)
 
 ## Gif动画
 
